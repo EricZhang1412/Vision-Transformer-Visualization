@@ -91,3 +91,17 @@ cd Vision-Transformer-Visualization
 sudo chmod +x vis.sh
 ./vis.sh
 ```
+
+## Methods
+
+![](./imgs/method_qk.JPG)
+![](./imgs/method_attn_mp.JPG)
+
+## Some Results
+
+![](./imgs/result1.JPG)
+![](./imgs/result2.JPG)
+![](./imgs/result3.JPG)
+![](./imgs/result4.JPG)
+![](./imgs/result5.JPG)
+![](./imgs/result6.JPG)
