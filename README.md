@@ -1,6 +1,6 @@
 # Vision-Transformer-Visualization
 
-There are two extra folder that need to be downloaded through this link[https://pan.baidu.com/s/1pkuSwBc7T2wR4p5FnZ88jQ?pwd=fpdk].(Cuz they're TOO large to fit in Github)
+There are two extra folder that need to be downloaded through [this link](https://pan.baidu.com/s/1pkuSwBc7T2wR4p5FnZ88jQ?pwd=fpdk) .(Cuz they're TOO large to fit in Github)
 
 The whole project content should be like this:
 ```
