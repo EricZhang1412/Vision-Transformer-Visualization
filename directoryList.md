@@ -1,10 +1,4 @@
-# Vision-Transformer-Visualization
-
-There are two extra folder that need to be downloaded through this link[https://pan.baidu.com/s/1pkuSwBc7T2wR4p5FnZ88jQ?pwd=fpdk].(Cuz they're TOO large to fit in Github)
-
-The whole project content should be like this:
-```
-|-- vitModelVisualize
+|-- zjy
     |-- .gitignore
     |-- README.md
     |-- main.py
@@ -73,21 +67,3 @@ The whole project content should be like this:
     |       |-- misc.cpython-311.pyc
     |       |-- misc.cpython-312.pyc
     |-- vis_output
-```
-## How to Use This Repo?
-1. Clone this project and get into the project directory
-``` sh
-git clone https://github.com/EricZhang1412/Vision-Transformer-Visualization.git
-cd Vision-Transformer-Visualization
-```
-2. Check if you have the appropriate virtual environment using `requiement.txt`
-
-3. There are three models: `sdt-v2_8_512, sdt-v1, vanilla_ViT_b_16` for you to choose. Fill this into `--modelUT "[here]"` in `vis.sh`
-
-4. There are three metrics: `qk, qk_hp, attn_mp` for you to choose. Fill this into `--parameterUT "[here]"` in `vis.sh`
-
-5. Run this shell script
-``` sh
-sudo chmod +x vis.sh
-./vis.sh
-```
